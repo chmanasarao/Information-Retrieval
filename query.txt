@@ -1,0 +1,8 @@
+"COVID2019italia OR restiamoacasa OR coronavirusitalia OR #ItalyCoronavirus OR (distanza OR sociale OR vaccino OR COVID-19 OR contagio OR pandemia OR conte OR corona OR confinamento OR Covid_19 OR COVID AND (economia OR coraggio OR rome OR milan OR Italia OR governo OR amministrazione OR ministero OR politica)) OR #andratuttobene OR #iorestoacasa OR #italycoronavirus OR noncenecoviddi OR piccoPandemia -filter:retweets"
+
+"#coronavirusinindia OR #jantacurfew OR #coronavirusindia OR #21dayslockdown OR ((shashitharoor OR modi OR DELHI OR TELANGANA OR INDIA OR BJP OR maharastra OR RajyaSabha OR LOKSABHA OR TRS) AND (COVID19 OR CORONA OR PANDEMIC OR STAYHOME OR QUARENTINE OR mask OR LOCKDOWN)) OR #StepdownModi OR #indiafightscorona OR #lockdownindia OR #TelanganaFightsCorona OR #covid19india -filter:retweets"
+
+"#TrumpLiesAboutCoronavirus OR #AmericaWorksTogether OR (COVID OR COVID19 OR Coronavirus OR covid19pandemic OR corona OR PANDEMIC OR coveryourface AND (#CDC OR Biden OR America OR USA OR #NYC OR Trump)) -filter:retweets" 
+
+"(#योगी_का_कोरोना_घोटाला OR करोना OR योगी OR #योगी_का_वार_कोरोना_लाचार OR #राष्ट्रीय_बेरोजगारी_दिवस OR #विकास_गायब_है OR #गणेश_चतुर्थी OR #विश्व_आदिवासी_दिवस OR #झांसी_की_रानी_कंगना OR कंगना) -filter:retweets"
+
